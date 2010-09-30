@@ -1,0 +1,3 @@
+                A data structure is a particular way of storing and organizing 
+data in a computer.AVL tree is a self-balancing binary search tree, and it was 
+the first such data structure to be invented.In an AVL tree, the heights of the two child subtrees of any node differ by at most one. it is also said to be height balanced. The AVL tree insertion and deletion is done.
